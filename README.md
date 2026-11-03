@@ -53,7 +53,7 @@ The original training and test datasets provided by UCI are used in this project
 
 **GitHub Repository:**
 
-[GitHub repository link will be added after repository creation]
+[GitHub Repository - Landsat ML Classification](https://github.com/mkemuelluther/landsat-ml-classification)
 
 ## d. Models Used and Evaluation Results
 
