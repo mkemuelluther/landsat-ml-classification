@@ -21,6 +21,7 @@ The trained models are integrated into an interactive Streamlit application wher
 **Dataset Name:** Statlog (Landsat Satellite)
 
 **Source:** UCI Machine Learning Repository
+**Dataset Link:** https://archive.ics.uci.edu/dataset/146/statlog+landsat+satellite
 
 **Task:** Multiclass Classification
 
@@ -184,6 +185,7 @@ MCC Score: **0.8827**
 KNN obtained the highest value among the five evaluated classifiers for all six reported evaluation metrics. Therefore, KNN was selected as the overall winner for the Landsat Satellite dataset.
 
 ## Streamlit Application
+**Live Application:** https://landsat-ml-classification.streamlit.app
 
 An interactive Streamlit web application was developed to evaluate the saved machine learning models.
 
